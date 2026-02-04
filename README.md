@@ -1,4 +1,3 @@
-# Employee-Attrition-ML
 # Employee Attrition Prediction
 
 ## Overview
